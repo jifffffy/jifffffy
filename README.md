@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**jifffffy/jifffffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools
 
-Here are some ideas to get you started:
+<a href="https://github.com/mraible">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jifffffy&theme=light&count_private=true" alt="Jiffy's most used languages" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### My GitHub Stats
+
+<h2 align="center">Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jifffffy&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true"/> 
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jifffffy&langs_count=20&layout=compact&theme=transparent&hide_border=true&hide_title=true"/>
+</p>
+
