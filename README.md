@@ -15,11 +15,11 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="40" height="40"/> </a>
     <!--Elixir-->
-    <a href="https://www.elixir.org" target="_blank"> <img
+    <a href="https://www.elixir-lang.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="elixir"
             width="40" height="40"/> </a>
     <!--Typescript-->
-    <a href="https://www.typescript.com" target="_blank"> <img
+    <a href="https://www.typescript.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"
             width="40" height="40"/> </a>
 </p>
